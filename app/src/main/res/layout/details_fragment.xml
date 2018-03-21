@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+ <LinearLayout android:id="@+id/details_container"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:padding="@dimen/large_padding">
+
+<ImageView
+    android:id="@+id/details_icon"
+    android:layout_width="match_parent"
+    android:layout_height="36dp"
+    android:layout_gravity="center_horizontal"
+    android:padding="@dimen/medium_padding"/>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/medium_padding"
+    android:paddingRight="@dimen/medium_padding">
+
+    <TextView
+        android:id="@+id/details_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:text="Name" />
+
+    <TextView
+        android:id="@+id/details_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Address" />
+
+</LinearLayout>
+
+ </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>
+
+

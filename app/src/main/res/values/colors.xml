@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#455A64</color>
+    <color name="colorPrimaryDark">#37474F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="location_type_color">@color/white</color>
+    <color name="divider">#21000000</color>
+    <color name="recyclerview_item_selected">#2190A4AE</color>
+    <color name="recyclerview_item_unselected">@color/white</color>
+
+    <color name="empty_search_results">#4190A4AE</color>
+
+</resources>

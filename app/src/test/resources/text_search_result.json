@@ -1,0 +1,817 @@
+
+{
+  "html_attributions" : [],
+  "next_page_token" : "CpQCAgEAAHPSUNW6-9gf0mYGde-6jTb-qATiIhvMSTLgCrtc1Dm9haEoQWK4qvIk9kyhEDZi2ayWR4TcgR2W51AjUi9hV9XFnr89uDSg7rj6IeQx84Rj7HXp3wHjs1KORriJ0sscoTxlUQpL7NdeHjf03aXWuQiwL_NzRO1vq8cUdyyf9IRsL4gfYbhB6tN1fojjJeQJMZl6svN-eHqcj7QygkOfHnoSE2ix3oj2tyIzMCdqfKYJnmmzMD2eyQGCYKsd7n8h5wkSk8diNFBGcifhloodDXGjoE9MluX3-s2l2bAF5YFDe9pF1L2k7f-pL2PnPF_yvS08OM1FJGG2LS0QdAdvMDWtV35qaVBQ3JgrMxnRgoEHEhBx6z_WmnO5DvLlh_eR9EnuGhTGkCa1q7LK6yVv3KEwoHYXlPtLrg",
+  "results" : [
+    {
+      "formatted_address" : "12 Macklin St, London WC2B 5NF, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.5158421,
+          "lng" : -0.1225785
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.51720407989273,
+            "lng" : -0.1212470201072778
+          },
+          "southwest" : {
+            "lat" : 51.51450442010729,
+            "lng" : -0.1239466798927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "182f5cf1654057271e05dafdfcfa05e1a87c8831",
+      "name" : "Soho Gyms Holborn",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3456,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/118154664792637399679/photos\"\u003eSoho Gyms Holborn\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAAn_Uxl1cloHP1oBpypMR2CtOLqe_M8IuVo5rIkYeaJhggH2phojrt2EyznNLM_0n13KsRqPES-AkPM9t3mPHMPIKNaJOsiKp831Hcgwdtb-za03kwgpavcsJCZ6m9XkiEhCiY98Ge66Oey4FQAgACpgyGhR1QMizAqJp3ND62CJqWv8-ihUtEQ",
+          "width" : 5184
+        }
+      ],
+      "place_id" : "ChIJLYlXuzQbdkgRb-DvxUe7AQo",
+      "rating" : 4.1,
+      "reference" : "CmRbAAAAG1QDyETZTvzM76YChDKs5b5XlkkXplWp7yU1V_RRd3BmS0Vjt7YkgJY7IY2Tfyt_9EwVNm3BcBm5FcD2N-kRU18_gX26KosrqBinVQpQu9Rj4bSqb1kfftKJMpLZjorJEhAIyhaGqJRaRRZhPQGIcQiEGhQlYqPvuEMiUi1LFyhqdY6o6lPcgg",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "13-16, Empire Square West, Long Ln, London SE1 4NA, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.500727,
+          "lng" : -0.09087199999999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.50224072989271,
+            "lng" : -0.08950232010727778
+          },
+          "southwest" : {
+            "lat" : 51.49954107010727,
+            "lng" : -0.09220197989272222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ef2e630ebdbb3ec9bf1e609b13187cafbe127b77",
+      "name" : "Soho Gyms Borough",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3000,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102820401658875811974/photos\"\u003eYang Zhang\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAsOqJ8R_0pNUHF7mNW5Z9Iiy5R--Ohpa7SwGIBH3mBvy56x7Hw3ev8crM16brMJVsnvHnCGKPkW9t4JjAkmq9_NV9QSTlMBXOSYiMfNKy1A7PMWMQ2OqvGsy6KW0kWAnTEhB9wtoDExxF76pdu43zhnc7GhQ7QU51bOK-sMJs2PGWOGc_7v1eyg",
+          "width" : 4000
+        }
+      ],
+      "place_id" : "ChIJy9wT4FgDdkgRkZd1tI237GA",
+      "rating" : 4.2,
+      "reference" : "CmRbAAAAxomHKaWmGhAPx9N6I12HFxhHpyXakV4IaPn-F8j6aGopiZqFfHttcgTA4mFk9GxtM0oc1K24qvdmikIsW7UCYFOsnZfkDt3EJKJqapGv4nQday5IipkbKwUZpQw-z4vQEhB8ZmFQLb3Krm8cHBd46so6GhS7oS7dfHlhj7PgbskcSDT5beP6wA",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "254 Earls Ct Rd, Kensington, London SW5 9AD, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.4917568,
+          "lng" : -0.1927002
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.49316782989272,
+            "lng" : -0.1912364701072778
+          },
+          "southwest" : {
+            "lat" : 51.49046817010728,
+            "lng" : -0.1939361298927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9cc91fb3e37a3054d788efc5e0e029478c0fd1aa",
+      "name" : "Soho Gyms",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3264,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110587688810645984017/photos\"\u003eSoho Gyms Earls Court\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAuGFpX7NlWBJCC3hfpJGtfoClmv7vb_J9jmEEUjOXCtQcA3DoRUvyIpIxcbGRGYTTDRQhdjfUMG4qSWh4wgHiCPLxF-D9xM9dxJ2_R2zLd8NLlKSAryW2L0iugve6uH1vEhBlOuUZjMh3DK4tQRj-hLyvGhTnl3wKpe021ymhbcLNsm8nwPf5ow",
+          "width" : 4928
+        }
+      ],
+      "place_id" : "ChIJl0UEcosPdkgRMPH2WoUpB7w",
+      "rating" : 4,
+      "reference" : "CmRbAAAAHg4HZaXghtJ49GXnpLxASHSwPm-Eb85rKizWbYniqKQES-3ehfOJcXS1Ctzw7U4o-hGyo58ATCYqonD6sK7LQJ37AmpXeUtulst2OhNnVIFVmHd72YIB-kHrLkwpX46oEhCCIaYKjvZfVuQNwysv6hM9GhRjaNVt4rN9F2BFTeaWVDYOwckftg",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "11-15 Brad St, Waterloo SE1 8TG, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.504211,
+          "lng" : -0.109216
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.50556082989273,
+            "lng" : -0.1078661701072778
+          },
+          "southwest" : {
+            "lat" : 51.50286117010728,
+            "lng" : -0.1105658298927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c6e153a4629384cd1f19a529b351870e6ba19348",
+      "name" : "Soho Gyms Waterloo",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 4160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106149192572275372760/photos\"\u003eAlbert De Beir\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAMKE2jASv4VPHZmiZ6SZAaWQRXzaCV1guXMY8Exht0Rl_Xx3OM0H3Fx1pG79gE2qAJK-yiLmTMsa4hyAFhY3OECkoz2c0xsEHZyWIzhVOrmFqWpGz3lb3wqPqRnBW0JpTEhAvd2cqG1MijlPHM_gJzyC3GhTLHfRHjs6Bjw9XMoDRDTmfyLy19A",
+          "width" : 3120
+        }
+      ],
+      "place_id" : "ChIJdRr2eLoEdkgRuSgiFBL_MNU",
+      "rating" : 4.4,
+      "reference" : "CmRbAAAAjhuLJ94PwtnZYKneUhy_ZPFOrB7e0HZrIHydMm2cBGOioJDWlqM9LxcHyte80QIdCgZicVTU0RlVRhepfeFoKQah8BMAqVQvV7kD7Qt7-62TwAMFeCs7PWnve_kAPwASEhB0wBgwuHbB2W2JdpRlmafAGhQa18KPmsmQRfJ0GwdNCMpbVMr-hQ",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "122 Clerkenwell Rd, London EC1R 5DL, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.5222211,
+          "lng" : -0.1078526
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.52351987989272,
+            "lng" : -0.1064880701072778
+          },
+          "southwest" : {
+            "lat" : 51.52082022010727,
+            "lng" : -0.1091877298927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e218dc3137ccd6ac03806ab983edc1496d4e3c13",
+      "name" : "Soho Gyms Farringdon",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3264,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109101231895315987926/photos\"\u003eJames Morgenstern\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAqQ4JNxcAMZeStfjIu9ZgQidTofbhsExVcHMQ7gjdgChCvRrG95mPthEYuAWvskv-TlwTkWUj4sOzk4EO1RPztv8aNTSZxKbQ17CpYWrJstbZfmcffBAG3JV8xnYydMJLEhCrQD894qS7ESHhQ32N7yI3GhSUOvX3vQ1mOhyZm6EgejSrXKGTtg",
+          "width" : 4928
+        }
+      ],
+      "place_id" : "ChIJCZLxT04bdkgRHj-QobBDgnk",
+      "rating" : 3.9,
+      "reference" : "CmRbAAAADoeqmt7GL5ZL5OF-VJ_a591B8k3l2Js68ehWqsfJzRPqSa-vxtB0Jr1KnoezjOtLlzsjLQGAsox89TfOkofcUnXyjNnF31cZXmifbIsMh8U1GXRPAfqUbBfEPDyI1yDiEhB4rszWKiGwYjDvlmZrAyV8GhRgkSY_vX-hd-GdB_cxAPxLBHysYQ",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "193 Camden High St, Camden Town, London NW1 7BT, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.5392576,
+          "lng" : -0.1432317
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.54065402989274,
+            "lng" : -0.1417386701072778
+          },
+          "southwest" : {
+            "lat" : 51.53795437010729,
+            "lng" : -0.1444383298927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "613235ebc600e02bde5c45a0016a40bee2e1be70",
+      "name" : "Soho Gyms Camden",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2448,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109735987117368906001/photos\"\u003eKristy Robinson\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA_2hEKOUeDqptakJcF7IuGXtEKdX5QUrOixx8puhhRc74rDiO77xC98uFlp4fdwl3JgY68to3w55h68GVWRqC4QtXTz7SUkjvw_sZLYZ33X1rUyIjP-hWP4DlDMKy47L4EhDxB6188AUt95XlYDP210oVGhTzDEna4RFqVC7t8pvMJkx1BKrNxw",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJJd3QsOEadkgRwv-8nAdlXXo",
+      "rating" : 4.2,
+      "reference" : "CmRbAAAAgOkPrMICHtzfe6Fq-JNjV6xjoQ8-Bu16Hp-pm5jZNcfk1E7bsuWBzP70GO4wqtpkbObZYTA44r-CSE8EdF2EaL9LZanpiz_u40RCOYGYGNsiJpJ1A6oLJj9PLVNoxjsOEhBkiqqE0MKG7NEWja_i8UhyGhS98ynWc8Xpblz17AWesRUZPlUMPQ",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "48 London Wall, London EC2M 5QB, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.5170916,
+          "lng" : -0.08808679999999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.51850127989272,
+            "lng" : -0.08671327010727777
+          },
+          "southwest" : {
+            "lat" : 51.51580162010728,
+            "lng" : -0.0894129298927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "75712ed35fad46b2a971a588b299be1bd80b6ad1",
+      "name" : "PureGym London Wall",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3712,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100427374988246397664/photos\"\u003eNathan Saunders\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAEBL97G9GsFu931xvjsGhzTwskq2rZO2LovXmmc0OYcylWq9ukFaZf1UZdlmTF0gt3waELLbaOja_F9JfMLQdr-U4qhiv29zO4xKnm1eqUFSGaojca__Tcm35Ft__gBQYEhDD5ZugVFDMkYff3uEXj61pGhScUFgy_Kr9JKqpb0pNyb5Jc7AFrg",
+          "width" : 13248
+        }
+      ],
+      "place_id" : "ChIJZzZNfascdkgRVNuwTHkNALQ",
+      "rating" : 3.4,
+      "reference" : "CmRbAAAAGVs3G5_6xIpBV23_vMWVzZVGRjtbdFToriZIx-FkEcEm08VrhmCUdknaxnWkJ2gWKu0miFUetKIMDkL6u0RbjQuOQuKIzwdtXf3i1gWIxWHmbIAkRvSkKaWm_M2U5pPGEhB58aSExBM-xq1r5-SVXdrZGhQ3v8z-Bmb4nMqlZx3-Me-VrOB6lA",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "151 Draycott Ave, Chelsea, London SW3 3AL, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.493121,
+          "lng" : -0.166722
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.49452647989272,
+            "lng" : -0.1653287701072778
+          },
+          "southwest" : {
+            "lat" : 51.49182682010728,
+            "lng" : -0.1680284298927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e3ff03e528ca35ba4248f1b94916c7bf7ab3c71a",
+      "name" : "KX | Private Members Health Club",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 600,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110328835654618686685/photos\"\u003eKX Gym\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAoLLX1TVgEI-BOa5JUN2aOf2Qz9wD0crrR61NF9Mx9JsHXL_33dZ8vRCIBMQzWsI3dw2I0hrOgbbEB13BBmUw_vCR15k1xsiqCqmG0aszmGHOLdIAc2AY9qkJQ3E8aHNeEhALOcUrau-55gy3ijgXrtyxGhQqvYqqUcbKrWqbGdZEvu6k3I5xeA",
+          "width" : 800
+        }
+      ],
+      "place_id" : "ChIJtfW8j2oFdkgRYMHK5_aDYOI",
+      "rating" : 4.4,
+      "reference" : "CmRbAAAAsTtqT57NXwtVELv6gPVoXQLVcbUq4gOoY5B_sV4mN9C45w2cQN5IGe55KHCL05sjVext3yHZq35myirGelprs-nXcu6ehzEBbF0KU_ZQ09ex4gKHTuZ-tXs-rABE1MUYEhBor2Jrd1CG-YBuuyPPALZKGhRBb-NESriDZSn4PAx6v4CUrHcYbA",
+      "types" : [
+        "gym",
+        "beauty_salon",
+        "spa",
+        "health",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address" : "Lacon House, 84 Theobalds Road, London WC1X 8RW, United Kingdom",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.5206911,
+          "lng" : -0.1181229
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.52210357989273,
+            "lng" : -0.1166417701072778
+          },
+          "southwest" : {
+            "lat" : 51.51940392010728,
+            "lng" : -0.1193414298927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e1a4fcb0cf1539afa427dd158f141922be92b5cd",
+      "name" : "PureGym London Holborn",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 5792,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102629691653008727664/photos\"\u003eJohn Leaver\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAA6ARrwTGHRUA-sb5-u6NWqrGg6dNUfM42HXu8IsdO3JsXGAT9ZlZA9fa4d8qxSTehQhJD-dbD6krwdqLn-irU_a-TUNIacZQ-5KSmHheLZa7qH4rdhTqsKJqxBKHQJpKEhAnJwFnuhnY8Y9T9CWZnlB9GhTrY05eHAW9F-8Bekt0_B_kOB_rog",
+          "width" : 8688
+        }
+      ],
+      "place_id" : "ChIJo6yfBTYbdkgRlMqNJuQL9dM",
+      "rating" : 3.8,
+      "reference" : "CmRbAAAANBQO5XH8gKYdRY2ysWzdeRZjrlQ0wrAM-hGpERyNdWB70WKic5DViN7_Dnvo_ABcaZfGiVt3JKtna0iJZHiXA8moFcepkpohpALWZJkPk44_cINU5Dy7F4BR9WbBzxVzEhCMEnQ6fH3cx9KuyynO3YHwGhQ6SxsW_1S04f3ewIi7-gMXzvXwxg",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "189 Munster Rd, Fulham, London SW6 6AW, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.4784129,
+          "lng" : -0.2119731
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.47988112989272,
+            "lng" : -0.2102130201072778
+          },
+          "southwest" : {
+            "lat" : 51.47718147010728,
+            "lng" : -0.2129126798927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8521ff18aa04c0e27dfa3f8c829a8401991bfb89",
+      "name" : "PayAsUGym. The UK's largest fitness marketplace.",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 960,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114375367796520024150/photos\"\u003ePayAsUGym\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA3k-islE_HR0y8rK0-8DBiR2m7W0z--rBgd8pf9etK-RnZ22XpXoMFz0WVoW9-R6QG7187_2JpEe3MtCUiVUQky76_62ND7amIckurp0mj7N5EllxZQiS21wBZz39jVhbEhAZbIpLm4vylAwJaipCmx-0GhSVNyfLHTWXGYn89tn4_re247i8Sg",
+          "width" : 720
+        }
+      ],
+      "place_id" : "ChIJG4S9BKIPdkgRrxdKA4c1x3U",
+      "rating" : 3.8,
+      "reference" : "CmRbAAAAN99tS3w_a1jQPmoaG6VJyrn1Yo0ikIef9y3DM20F5ev3sEQUnQWWVSJJUPV2GyPKNZYP7huAHoony5petBxFZOY-xtbZ6TyOkIYY13wwYXcHx7prftxAXqxRJBkD6rGYEhDzp-oS2kj3FjH6AU-E9YzvGhSxh6jQzR92DcxBWLV-vxxzU81eMA",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "112 Great Russell St, Fitzrovia, London WC1B 3NQ, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.517338,
+          "lng" : -0.1303548
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.51862162989272,
+            "lng" : -0.1289648201072778
+          },
+          "southwest" : {
+            "lat" : 51.51592197010728,
+            "lng" : -0.1316644798927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8bb72bfa481211f64a4184d9c4571effa13c93bb",
+      "name" : "YMCA Club",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 687,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110960128810372068253/photos\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA8-NgN2aPnap8LqTT7nbDMcuO6JHYUVBqXQthAT7P9S5oP--BEDGbBXUalXOJXNu-X0ZFaE2GC_5AmUXq0asDHoGEcqDAhXzAGqn6BW1uYmXX7YcXzLLxfglN5JOi4MS7EhAzB0Dis_NS-4b8TT9y_4H3GhTpukVdG5tG38gwMB59KkFQ_ofucQ",
+          "width" : 1024
+        }
+      ],
+      "place_id" : "ChIJXx8TdC0bdkgR9s-zwH0bWbM",
+      "rating" : 4.1,
+      "reference" : "CmRbAAAAvy7c4VSHNvLuQjsZ9oBfymxsxebVHOHI5N24-VA_91jRWewT6f0g1lsukhdttDpxjh0Fq4tZXi-5-Roj5EqUmpsWVpBlaQMKhTfJWdM1ti5oGid0J89AWYAYQtTKCh6fEhDrTZpUeLnjvybFothJuE0xGhSpIM6eY33Bdl3tWEFcmg78Pd99kw",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "953-959 Garratt Ln, London SW17 0LR, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.4303237,
+          "lng" : -0.1741371
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.43161302989272,
+            "lng" : -0.1728899701072778
+          },
+          "southwest" : {
+            "lat" : 51.42891337010727,
+            "lng" : -0.1755896298927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bf0635086edd4bbdd1b4ac3280fb4e809c4121a3",
+      "name" : "The Gym London Tooting",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 5312,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105196142050580103354/photos\"\u003eMichal Kasperek\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA7lc_6kIXpr6cJo3XfQ6g0AZD9gADYYcov5iz3SPFhS-QQ-oywDfPRa5FKUuAX3v1CZihvuYlnLUVk-AFmSAcK9UDL_WVSljBOgRMF4_90zm5RwX334ZPXvTVCHnENGA9EhAR_UOOFZWT4MoC6wOOWjS_GhRNtNzRqbFhkuik_XPrptTHwVhYOw",
+          "width" : 2988
+        }
+      ],
+      "place_id" : "ChIJtekpGQgGdkgRglELk8Cu0Ko",
+      "rating" : 4.1,
+      "reference" : "CmRbAAAAWCaWsULwmk-XXOJ4QfbUUFIiHGEyj9ka0QjfFe-KCCbNyMPKaU5F0xf1HKwOD_x6K58RoVDLqqkouu44lDdx4gqIP1iz2-EtuYeqsDrQuaNAMGG_cnKL2eovPKIF55LaEhDfgKAAQ3eWCzARz2hbzoDVGhTOTJcUhJcFNmfSwBYZ6b2LjGZUUg",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "Plaza Oxford Street, 120 Oxford St, Fitzrovia, London W1D 1LT, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.5162641,
+          "lng" : -0.1369348
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.51764187989272,
+            "lng" : -0.1356577701072778
+          },
+          "southwest" : {
+            "lat" : 51.51494222010728,
+            "lng" : -0.1383574298927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8cb38b6c348820c9de396692b26d359e891fa243",
+      "name" : "easyGym London Oxford Street",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 478,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111226553322691279415/photos\"\u003eeasyGym London Oxford Street\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAzY9Xqh5RNllx34uhY28n_GW0K5RxjOD9E-CfPWd5WaF7IA25P3684-gVL-XzapMnNJIsYgvw0YqPDnr1BFVha-fdXbP7sdWcd9o3Tgt_fAP_EuP3IIzx4obpo0bOEaToEhBlTD3E-lfo-LfzARL8O27EGhSb02T9O8nmRWk79SOzuwx3dUNb9A",
+          "width" : 720
+        }
+      ],
+      "place_id" : "ChIJ07CYQCsbdkgRLNViatTo5U8",
+      "rating" : 4,
+      "reference" : "CmRbAAAAQMeI_ZEfbTUWiwYm2bEF3RAICYdQqwS4PnRGUl4sEevALbZa4UPDFSUEKCsaccVi_eMDUGKZwOCCtvpISYJb5XVNNv-4YfpsPhw0Wg6NNmnObKielk0PhHmPtSR9Mm73EhDL7LF475Kx2rkBVtUwmPUSGhQVsjGlPaiQGFhuiISuPXzUz0PTuw",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "Basement Level, Hotel 8-18 London Bridge, London Bridge St, London SE1 9SG, United Kingdom",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.5049487,
+          "lng" : -0.0875074
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.50633247989272,
+            "lng" : -0.08611527010727778
+          },
+          "southwest" : {
+            "lat" : 51.50363282010728,
+            "lng" : -0.08881492989272222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "132d44e337adaa508cadb5252eaf55e70244c2a1",
+      "name" : "Fitness First",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 1363,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103546177749670688077/photos\"\u003eFitness First\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA0mOBlk7El4f46UYN59ocJwVWicSoYzP4b8ROWsGcyI4eW_pRegnCbIVW53qwFCFx4MiG-xKj2IBLoSgZNcMKXcY7Rmv4KFVVdMsA0wZicp5TEVItsD3gyHjgLa0IFDSvEhAvAAuiODnT0-RFVbMzCcQKGhT7hp-w8gmlbpVY-p6Ui8yy4jEcxA",
+          "width" : 2048
+        }
+      ],
+      "place_id" : "ChIJf5-gulADdkgRuzEoLATTxiY",
+      "rating" : 3.4,
+      "reference" : "CmRbAAAAI9vOeI5mL7goZPi4qwBloRCNO_EYxiiNSmqVbchsnl0PxAHEy-T740o0iOF3RzYz6AUHmPMh0HBBULFT8b5Pml6S5AGH0hrX3DTw_-myZxtWPpfpjFJqlAm60prGxz91EhDF6Ov3X5kg5mtlhGpgYKsMGhR1ZU3X2QHTWCp6nSgw47gVomx_KA",
+      "types" : [ "spa", "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "12 Leather Ln, London EC1N 7SS, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.5191122,
+          "lng" : -0.1088916
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.52046077989272,
+            "lng" : -0.1076209201072778
+          },
+          "southwest" : {
+            "lat" : 51.51776112010727,
+            "lng" : -0.1103205798927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "93c2743397c5d4518f1c931e05cfd515a1b9395e",
+      "name" : "The New Gymbox Farringdon",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 706,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109892710576644564097/photos\"\u003eGymbox\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAz7S9SV1PwKBp8dK14UKgZ4ybh7-aToknTNuwODoT3LGA1Rwcy4qAxxvnNWg0P_KsnzAjm0FncisR8NE39xnj1zREmRzkELdIMX-XqJ_7cY1L_wWza4Bxtt6igkSEbLtXEhDjKjyhM9nmOaLSiji-FszfGhQ7tnCJyjQN9IN98YqlsPcC3gC52g",
+          "width" : 1300
+        }
+      ],
+      "place_id" : "ChIJ95tYKlIbdkgRZAnWyXMpb68",
+      "rating" : 4.2,
+      "reference" : "CmRbAAAANYmqxoYYWjSnSfxp-AUf5O1O0_wdMYsQSZ1cfxd0w5y2tqYi9YaBHjaCMTESIqCN8Kp-GNPCbnPPZMdVmsS-4lD6ZtY_0sejwzOQ1eG11sRPBx6XEBRWImAolGI54qgpEhDAgthh8LTmBQjboG8azTn3GhRvsQk5p-jrjTi8iI8ydeu7JGpqBQ",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "4-12, Rex House, Regent St, St. James's, London SW1Y 4PE, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.508474,
+          "lng" : -0.133185
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.50982382989272,
+            "lng" : -0.1318351701072778
+          },
+          "southwest" : {
+            "lat" : 51.50712417010728,
+            "lng" : -0.1345348298927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ca714297fff2d480d52633250eba9e4ae0cb9435",
+      "name" : "PureGym London Piccadilly",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 5792,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102629691653008727664/photos\"\u003eJohn Leaver\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAS4P2nznEK7QBE78klJl2DDb9Q6B5YVyk-6bGvHqHLS6NkIe7PIJA8L7gRMxQj3NFmegQDBXe4J8-NJrLWr2BkFC9MWOHbpPPv4B3x8iV2ONtosbhy-W5j1wgce2IkJ9xEhCSFsGfH04cYgwCp4khav-3GhSamUzLK-lFTzQFZR6tKQaAJnrsPw",
+          "width" : 8688
+        }
+      ],
+      "place_id" : "ChIJp4CbbNEEdkgRMGoC402amRc",
+      "rating" : 3.7,
+      "reference" : "CmRbAAAA9kj03nIfEuCiMe59hkTfL2e2GU2Pu6A1e0SJ07yJDL2cgl2LbcfePj7y-dydyDSVEbKwCcC7roQPlYOz6AR1dNkLbZFwDmW8kYLPXuBQLpAdDmXCB1ga4dygBCqqCEkLEhBAaqYM6uOI6fLqFzAL5DABGhRymP8RTb2Mly4zvSZU4pyQwWpYCA",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "1 New Fetter Ln, London EC4A 1AN, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.5169104,
+          "lng" : -0.1076565
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.51826942989272,
+            "lng" : -0.1062184701072778
+          },
+          "southwest" : {
+            "lat" : 51.51556977010727,
+            "lng" : -0.1089181298927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a53cf834ca91d359a5fb760d75e61d38feee328f",
+      "name" : "The Gym London Holborn Circus",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3456,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104176180259285903543/photos\"\u003eAyman Tahiri\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAXK9TiVwFSug_ZLPdyC4fYpcL5L7JbjBzilneec7cJtrk8P4qIdD-BRggAMDEAWvkgzUp24IfT8xw84ZpxYlT1_py4rckqkhlF_7R7CM_VOYp3JCGInhgAVBS8dCjhy5LEhBFQ9Eu09FAXJKQykz9IHTgGhRXYMp-7DOpsQbYNHe3mW_tSnKSQg",
+          "width" : 4608
+        }
+      ],
+      "place_id" : "ChIJ1__dEU0bdkgRlsM-Dexdj5U",
+      "rating" : 4.2,
+      "reference" : "CmRbAAAAHyjAxoHMdTf-DRUv8EwqINcMjsy7R2UyE93bAJJYzdTb3wmkWr4-3KrH_VgUdvkGTRbz8CTPnIp4LQ53VB26mFK-MWy79Y9KbUbh2bVR4nl53Cet7Y7scddD7OTDb6inEhD9DdFNkt7aeAqfgZWzWLi7GhRlW5DwkacD8JQGYSyCpR0cWApHug",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "41 Fortune Green Road, D2, London NW6 1DR, United Kingdom",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.5550813,
+          "lng" : -0.197086
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.55643112989272,
+            "lng" : -0.1957361701072778
+          },
+          "southwest" : {
+            "lat" : 51.55373147010728,
+            "lng" : -0.1984358298927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e43d77ed525e7768be4c31e1a04808332023056e",
+      "name" : "The Gym",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 532,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107548840769676330473/photos\"\u003eThe Gym London West Hampstead\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAjjbJR_21dycCGcCzyISDQbeJOmJEsFAdxzsvvL40qbcPCqldWEYm_JzXQ6C8wxkUamhqjw_zE_eXp0f7g9MFdZH9YVnaxTetOCT_d9cMV6Qg9bayke5i2OTd1yq-fkovEhA1tO4jFgR9dQpXzlOdguMhGhQdNi8phBEs9YzOHuezfYvjGCrMig",
+          "width" : 800
+        }
+      ],
+      "place_id" : "ChIJJ1UwhX0QdkgRUegVPvF9mkY",
+      "rating" : 3.8,
+      "reference" : "CmRbAAAA63wrSQPvgRQ7-M-tAsqRXwTBn_wK-Zz1Pl-23dVQkavPDfuxri6Gg9902txjAHhivDZJL_zE9xFv_wsoELGgQdS687x79cOLGRFu_PGS__PVYgeVvkhg5c6trCcG-HfBEhA-FK50jyJiMeqWy5m1iQuSGhQ-Ji9TNHFe-HYGd-cXJzONfOeyQg",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "15 Lett Rd, London SW9 0HP, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.4761677,
+          "lng" : -0.1178308
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.47766577989272,
+            "lng" : -0.1163117201072778
+          },
+          "southwest" : {
+            "lat" : 51.47496612010728,
+            "lng" : -0.1190113798927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "7d63e4c6f2ec8016c7b42c8346a106b3b9a379a7",
+      "name" : "The Gym London Stockwell",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106328572653344429814/photos\"\u003eArthur J Gibson\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAsbpzPajgi-uLOjMNg4STFiWW_YYtDCLA4FqGG_hanCEHycb1fz8dMffv35sHyPNDIj87oPqx4a71uCC09v2BuXbppOUJ6aAQCJ5QT9bZebzHSfDv2sfJfaR7Mz4f0IHXEhADpqxoLcxfwqS1LNwxkn8DGhTkEfgUwYX8_d0g5c2MlYgxAxMJHg",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJFxeeVmAEdkgRhmrqZf09tQE",
+      "rating" : 4.3,
+      "reference" : "CmRbAAAAvzbbB43YEO5accQE7elc2vKnz3b5CMSfS7qF5XurFVRDLu8LqVjhU-5vrsJ0GyzM9vkCoQESZcjHCYfnv4Fzk-IvXOf3Sd41y5SoRHbTVflVv9jSWmUoppgUzHt2FI4JEhAJUqfFLp8PFBuYPLpHi7B8GhQuu62oEdEavQXmRRsDeG_TBB6sOg",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "6A St George Wharf, London SW8 2LE, UK",
+      "geometry" : {
+        "location" : {
+          "lat" : 51.4853051,
+          "lng" : -0.1262435
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 51.48649092989272,
+            "lng" : -0.1253626201072778
+          },
+          "southwest" : {
+            "lat" : 51.48379127010727,
+            "lng" : -0.1280622798927222
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0dca4f027127c7ad2f7af88cbf1730d11165b0f8",
+      "name" : "The Gym London Vauxhall",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 533,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102797932534266359357/photos\"\u003eThe Gym\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAzylgBfanV5WioA5eFm_d6aNEeHAsYzLCkBiQ9aA8ZI4GhO6Ej_WJhJsPHHlYTwn2z0oXUBXJWNTpdBQxTQIF1Bb-p6zCaJ_bSuqwEzqS5AwmB90lEaNTraYOs9Zq_YQFEhDt7j0kv1dBn-fhksPHPYWyGhRLRs-A3vkIDy5YTNYHgzSYRzj64g",
+          "width" : 800
+        }
+      ],
+      "place_id" : "ChIJFQZLUu4EdkgRQtukm6J_Tuk",
+      "rating" : 3.8,
+      "reference" : "CmRbAAAAW7LdCeel3hwp5ai3PtKbQrVpASuVTLWQD3GDzqJfDgfY7FovYMVMk6JyEiEU3SuhRjEWgy7rpjFoxR7qVjZtNbbShjLfo_7TU2RQHhP_PX9aQFm3LQYeYZa3x25rvk9REhD6eXOepqhzRntBL8XmbpGrGhRRc6bGSM6KfbYwGgyu4RFq6anEgg",
+      "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+    }
+  ],
+  "status" : "OK"
+}
