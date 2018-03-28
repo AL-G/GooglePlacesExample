@@ -6,3 +6,4 @@ It uses an MVP architecture, dependency injection is used to provide a data repo
 <b>Libraries used:</b></br>
 Dagger2, RxJava, Retrofit, Picasso, Gson, RESTMock, Butterknife
 </p>
+![Screenshot](search_screen.png)
