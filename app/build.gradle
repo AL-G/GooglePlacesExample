@@ -23,29 +23,29 @@ dependencies {
 
 
     // Dependencies for local unit tests
-    testCompile "junit:junit:$rootProject.ext.junitVersion"
-    testCompile "org.mockito:mockito-all:$rootProject.ext.mockitoVersion"
-    testCompile "org.hamcrest:hamcrest-all:$rootProject.ext.hamcrestVersion"
+    testImplementation "junit:junit:$rootProject.ext.junitVersion"
+    testImplementation "org.mockito:mockito-all:$rootProject.ext.mockitoVersion"
+    testImplementation "org.hamcrest:hamcrest-all:$rootProject.ext.hamcrestVersion"
 
     // Android Testing Support Library's runner and rules
-    androidTestCompile "com.android.support.test:runner:$rootProject.ext.runnerVersion"
-    androidTestCompile "com.android.support.test:rules:$rootProject.ext.rulesVersion"
+    androidTestImplementation "com.android.support.test:runner:$rootProject.ext.runnerVersion"
+    androidTestImplementation "com.android.support.test:rules:$rootProject.ext.rulesVersion"
 
     // Dependencies for Android unit tests
-    androidTestCompile "junit:junit:$rootProject.ext.junitVersion"
-    androidTestCompile "org.mockito:mockito-core:$rootProject.ext.mockitoVersion"
-    androidTestCompile 'com.google.dexmaker:dexmaker:1.2'
-    androidTestCompile 'com.google.dexmaker:dexmaker-mockito:1.2'
+    androidTestImplementation "junit:junit:$rootProject.ext.junitVersion"
+    androidTestImplementation "org.mockito:mockito-core:$rootProject.ext.mockitoVersion"
+    androidTestImplementation 'com.google.dexmaker:dexmaker:1.2'
+    androidTestImplementation 'com.google.dexmaker:dexmaker-mockito:1.2'
 
     // Espresso UI Testing
-    androidTestCompile "com.android.support.test.espresso:espresso-core:$rootProject.espressoVersion"
-    androidTestCompile "com.android.support.test.espresso:espresso-contrib:$rootProject.espressoVersion"
-    androidTestCompile "com.android.support.test.espresso:espresso-intents:$rootProject.espressoVersion"
-    androidTestCompile "com.android.support.test.espresso.idling:idling-concurrent:$rootProject.espressoVersion"
-    compile "com.android.support.test.espresso:espresso-idling-resource:$rootProject.espressoVersion"
+    androidTestImplementation "com.android.support.test.espresso:espresso-core:$rootProject.espressoVersion"
+    androidTestImplementation "com.android.support.test.espresso:espresso-contrib:$rootProject.espressoVersion"
+    androidTestImplementation "com.android.support.test.espresso:espresso-intents:$rootProject.espressoVersion"
+    androidTestImplementation "com.android.support.test.espresso.idling:idling-concurrent:$rootProject.espressoVersion"
+    implementation "com.android.support.test.espresso:espresso-idling-resource:$rootProject.espressoVersion"
 
     // Mock REST server
-    androidTestCompile "com.github.andrzejchm.RESTMock:android:$rootProject.restMockVersion"
+    androidTestImplementation "com.github.andrzejchm.RESTMock:android:$rootProject.restMockVersion"
 
 
     implementation "com.android.support:appcompat-v7:$rootProject.supportLibraryVersion"
@@ -70,7 +70,7 @@ dependencies {
     implementation "com.google.android.gms:play-services-maps:$rootProject.mapsVersion"
     // Dagger dependencies
     annotationProcessor "com.google.dagger:dagger-compiler:$rootProject.daggerVersion"
-    provided 'org.glassfish:javax.annotation:10.0-b28'
+    compileOnly 'org.glassfish:javax.annotation:10.0-b28'
     implementation "com.google.dagger:dagger:$rootProject.daggerVersion"
     implementation "com.google.dagger:dagger-android:$rootProject.daggerVersion"
     implementation "com.google.dagger:dagger-android-support:$rootProject.daggerVersion"
